@@ -48,7 +48,7 @@ int Train::getLength() {
             }
         }
         if (!temp->light) {
-            break
+            break;
         }
     }
     return len;
